@@ -8,7 +8,7 @@ I am Cédric and I am a french Data Science enthousiast.
 
 - 👯 I’m looking to collaborate on DSX : Data Science eXperiences ! You are warmly welcome to look at the pinned project !
 
-You can learn more about me through my online resumé visible at cbohnert67.github.io
+You can learn more about me through my online resumé visible at [cbohnert67.github.io](cbohnert.github.io).
 
 Have a nice day !
 
