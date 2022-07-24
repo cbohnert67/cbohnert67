@@ -1,12 +1,12 @@
 ### Hi there 👋 and welcome to my profile ! ✨
 
-I am Cédric and I am a french Data Science enthousiast.
+I am Cédric and I am a french Data Science & Instructional Design enthousiast who loves to write English.
 
-- 🔭 I’m currently working hard on building my Data Scientist career. 
+- 🔭 I’m currently working hard on building a Data Scientist & Instructional Designer career specialized in EdTech. 
 
-- 🌱 I’m currently learning plenty of skills through DataCamp and through Openclassrooms. 
+- 🌱 I’m currently learning plenty of data skills and I plan to get certifed by DataCamp by the end of year 2022. 
 
-- 👯 I’m looking to collaborate on DSX : Data Science eXperiences ! You are warmly welcome to look at the pinned project !
+- 👯 I’m looking to collaborate on DSX : Data Science eXperiences ! A great instructional projec you are warmly welcome to look at !
 
 You can learn more about me through my online resumé visible at [cbohnert67.github.io](http://cbohnert67.github.io).
 
