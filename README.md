@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).**
 
-- 👯 I’m looking to collaborate on **any of the presented data-science projects or open to other projects.**
+- 👯 I’m looking to collaborate on **any of the presented data science projects or open to other projects.**
 
-- 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
+- 🤝 I’m looking for help with **front end applications, ideally displaying the data science results on a website.**
 
 - 👨‍💻 My Data Science portfolio is available at [https://github.com/cbohnert67/Data-Science](https://github.com/cbohnert67/Data-Science)
 
