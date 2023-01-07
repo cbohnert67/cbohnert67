@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert</h1>
-<h3 align="center">A passionate data scientist from France</h3>
+<h3 align="center">A passionate data scientist from France:</h3>
 
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
 
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I enjoy walking when I'm not coding.**
 
 
-<h3 align="center">Skills</h3>
+<h3 align="center">Skills:</h3>
 
 - Languages : HTML, CSS, Javascript & Python.
 - EDA & Statistical Modeling with Pandas, Seaborn et Statsmodels.
