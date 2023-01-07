@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cbohnert67/Data-Science](https://github.com/cbohnert67/Data-Science)
+- 👨‍💻 My Data Science portfolio is available at [https://github.com/cbohnert67/Data-Science](https://github.com/cbohnert67/Data-Science)
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
