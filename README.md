@@ -25,7 +25,7 @@
 - Statistical Learning & Modeling with Scikit-learn.
 - Frontend with W3.CSS & Backend with Flask.
 - Versioning with Git & Github.
-- technical writing and documentation with Jupyter Notebook, Markdown & LaTex
+- Technical writing and documentation with Jupyter Notebook, Markdown & LaTex
 - Agile, SCRUM & CRISP-DM methodology.
 
 
