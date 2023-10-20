@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **cbohnert.datascience@gmail.com**
 
-- ⚡ Fun fact: **I enjoy listening to music while walking in the city when I'm not coding.**
+- ⚡ Fun fact: **When I'm not coding, I enjoy listening to music while walking in the city.**
 
 
 <h3 align="center">Skills:</h3>
