@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
-- 📫 How to reach me **cbohnert.datascience@gmail.com**
+- 📫 How to reach me: **cbohnert.datascience@gmail.com**
 
-- ⚡ Fun fact **I enjoy listening to music while walking in the city when I'm not coding.**
+- ⚡ Fun fact: **I enjoy listening to music while walking in the city when I'm not coding.**
 
 
 <h3 align="center">Skills:</h3>
