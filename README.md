@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert</h1>
-<h2 align="center">A passionate data scientist from France</h3>
+<h2 align="center">An aspiring Data & Machine Learning Scientist from France</h3>
 
-- 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
+- 🔭 I’m currently working on **leveling up my skills and building up my GitHub profile with data science projects.**
 
 - 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).**
 
 - 👯 I’m looking to collaborate on **any of the presented data science projects or open to other projects.**
 
-- 🤝 I’m looking for help with **front end applications, ideally displaying the data science results on a website.**
+- 🤝 I am looking for help and collaboration **to better move forward together and build the future of AI.**
 
 - 👨‍💻 My Data Science portfolio is available at [https://github.com/cbohnert67/Data-Science](https://github.com/cbohnert67/Data-Science)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cbohnert.datascience@gmail.com**
 
-- ⚡ Fun fact **I enjoy walking when I'm not coding.**
+- ⚡ Fun fact **I enjoy listening to music while walking in the city when I'm not coding.**
 
 
 <h3 align="center">Skills:</h3>
