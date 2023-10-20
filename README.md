@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cédric Bohnert</h1>
+<h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
 <h2 align="center">An Aspiring Data & Machine Learning Scientist from France</h3>
 
 - 🔭 I’m currently working on **leveling up my skills and building up my GitHub profile with data science projects.**
