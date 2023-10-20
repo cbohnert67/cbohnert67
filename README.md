@@ -20,13 +20,14 @@
 
 <h3 align="center">Skills:</h3>
 
-- Languages : HTML, CSS, Javascript & Python.
-- EDA & Statistical Modeling with Pandas, Seaborn et Statsmodels.
+- Programming with Python & R.
+- Data Management in Python with Numpy & Pandas.
+- Data Visualization with Matplotlib & Seaborn.
+- Exploratory Data Analysis & Statistical Modeling with Statsmodels.
 - Statistical Learning & Modeling with Scikit-learn.
-- Frontend with W3.CSS & Backend with Flask.
 - Versioning with Git & Github.
 - Technical writing and documentation with Jupyter Notebook, Markdown & LaTex
-- Agile, SCRUM & CRISP-DM methodology.
+- Agile, SCRUM & CRISP-DM methodologies.
 
 
 
