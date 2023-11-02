@@ -9,13 +9,13 @@
 
 - 🤝 I am looking for help and collaboration **to better move forward together and build the future of AI.**
 
-- 👨‍💻 My Data Science portfolio is available at [https://github.com/cbohnert67/Data-Science](https://github.com/cbohnert67/Data-Science)
+- 👨‍💻 My portfolio website is available at [https://cbohnert67.github.io](https://cbohnert67.github.io)
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
 - 📫 How to reach me: **cbohnert.datascience@gmail.com**
 
-- ⚡ Fun fact: **When I'm not coding, I enjoy listening to music while walking in the city.**
+- ⚡ Fun fact: **When I'm not coding, I enjoy listening to music while walking in the city of Strasbourg.**
 
 
 <h3 align="center">Skills:</h3>
