@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **leveling up my software development skills and building up my GitHub profile with notes and projects.**
 
-  Specifically, I am planning to complete in December 2024 a Bachelor Concepteur Développeur d'Applications Python with the online school STUDI. It is a french level 6 RNCP title of Software Developer. 
+  Specifically, I am planning to complete a Bachelor Concepteur Développeur d'Applications Python with the online school STUDI. It is a french level 6 RNCP title of Software Developer. 
 
 - 🌱 I’m currently learning **the principles of good software construction aka. software engineering.**
 
@@ -15,11 +15,11 @@
 </p>
 and one awesome free online course from MIT Open Learning: <a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about" target="_blank">MIT 6.005.1x Software Construction in Java</a>
 
-- 👯 I’m looking to collaborate on **any of the presented data science projects or open to other projects.**
+- 👯 I’m currently looking to collaborate on **upskilling with anyone who loves to learn about Data and AI.**
 
-- 🤝 I am looking for help and collaboration **to better move forward together and build the future of AI.**
+- 🤝 My favorite domain applications of AI are **STEM education and Healthcare.**
 
-- 👨‍💻 My portfolio website is available at [https://cbohnert67.github.io](https://cbohnert67.github.io)
+- 👨‍💻 My portfolio website is available at [https://cbohnert67.github.io](https://cbohnert67.github.io) (Please note it is a work in progress).
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
