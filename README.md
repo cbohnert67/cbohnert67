@@ -9,7 +9,7 @@
 
   I'm taking a break with Python to learn software development best practices using several great Java-based resources:
 
-<img align="center" src="./img/software_design_hue.png" alt="Software Design Hue" height="100" width="150" />
+<img align="center" src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
 
 - 👯 I’m looking to collaborate on **any of the presented data science projects or open to other projects.**
 
