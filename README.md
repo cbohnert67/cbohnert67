@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **the principles of good software construction aka. software engineering.**
 
-  I'm taking a break with Python to learn software development best practices (along with UML) using two great Java-based books:
+  I'm taking a break with Python to learn software development best practices (along with UML) using two great Java-based books and one awesome free online course from MIT Open Learning: <a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about" target="_blank">MIT 6.005.1x Software Construction in Java.</a>
+
 
 <p align="center">
 <img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
-and one awesome free online course from MIT Open Learning: <a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about" target="_blank">MIT 6.005.1x Software Construction in Java</a>
 
 - 👯 I’m currently looking to collaborate on **upskilling with anyone who loves to learn about Data and AI.**
 
