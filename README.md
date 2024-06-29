@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
 <h2 align="center">An Aspiring Data & Machine Learning Scientist from France</h3>
 
-- 🔭 I’m currently working on **leveling up my skills and building up my GitHub profile with data science projects.**
+- 🔭 I’m currently working on **leveling up my software development skills and building up my GitHub profile with notes and projects.**
 
-- 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).**
+  Specifically, I am planning to complete in December 2024 a Bachelor Concepteur Développeur d'Applications Python with the online school STUDI. It is a french level 6 RNCP title of Software Developer. 
+
+- 🌱 I’m currently learning **the principles of good software construction aka. software engineering.**
+
+  I'm taking a break with Python to learn software development best practices using several great Java-based resources:
+
+<img align="center" src="" alt="cedricbohnert" height="30" width="40" />
 
 - 👯 I’m looking to collaborate on **any of the presented data science projects or open to other projects.**
 
@@ -34,7 +40,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/cedricbohnert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedricbohnert" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cedricbohnert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="To Cédric Bohnert LinkedIn" height="30" width="40" /></a>
 </p>
 
 
