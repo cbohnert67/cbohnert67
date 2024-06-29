@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning **the principles of good software construction aka. software engineering.**
 
-  I'm taking a break with Python to learn software development best practices using several great Java-based resources:
+  I'm taking a break with Python to learn software development best practices (along with UML) using several great Java-based resources:
 
 <p align="center">
 <img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
-<img src="./img/uml2_pratique_roques.png" alt="Software Design Hue" height="290" width="200" />
+<img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
+<a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about" target="_blank">MIT 6.005.1x Software Construction in Java</a>
 </p>
 
 - 👯 I’m looking to collaborate on **any of the presented data science projects or open to other projects.**
