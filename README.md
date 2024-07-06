@@ -42,8 +42,8 @@
 
 <h3 align="center">Credentials:</h3>
 
-- [Coursera Python 3 Programming Specialization](./credentials/"Coursera 6FETXJVPRGWS Python Programming.pdf")
-- [Diplôme STUDI Développeur d'Application Python](./credentials/)
+- [Coursera Python 3 Programming Specialization](./credentials/Coursera 6FETXJVPRGWS Python Programming.pdf)
+- [Diplôme STUDI Développeur d'Application Python](./credentials/C%C3%A9dric_BOHNERT_DIPL%C3%94ME_STUDI_MARS_24_011_Dipl%C3%B4me_Studi_HETIC.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
