@@ -7,9 +7,9 @@
 
 - 🌱 During the summer of 2024, I will be learning **the principles of good software construction aka. software engineering in order to master software development.**
 
- I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and [www.educative.io](https://www.educative.io). More specifically, I am currently learning from the great 'Learn to Code: Become a Software Engineer' skill path from Educative. 
+  I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and [www.educative.io](https://www.educative.io). More specifically, I am currently learning from the great 'Learn to Code: Become a Software Engineer' skill path from Educative. 
 
-My current readings are the following great books:
+  My current readings are the following great books:
 
 <p align="center">
 <img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
