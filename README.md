@@ -3,7 +3,7 @@
 
 - 🔭 My main goal for 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and projects.**
 
-  Specifically, I am studying for 2024 in order to complete a [Bachelor Concepteur Développeur d'Applications Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) with the online school STUDI. It is a french level 6 RNCP title of Software Developer. With this Bachelor, I will be equiped with 3 sets of skills: 1. conception and specification of the digital solution, 2. management, piloting and testing of the digital solution, and 3. python development of the digital solution.
+  Specifically, I am studying for 2024 in order to complete a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) with the online school STUDI. It is a french level 6 RNCP title of Software Developer. With this Bachelor, I will be equiped with 3 sets of skills: 1. conception and specification of the digital solution, 2. management, piloting and testing of the digital solution, and 3. python development of the digital solution. When completed, I will move toward Data Science and AI.
 
 - 🌱 I’m currently learning **the principles of good software construction aka. software engineering.**
 
