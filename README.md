@@ -29,7 +29,6 @@
 
 - ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.**
 
-
 <h3 align="center">Skills:</h3>
 
 - Programming with Python & R.
@@ -41,8 +40,9 @@
 - Technical writing and documentation with Jupyter Notebook, Markdown & LaTex
 - Agile, SCRUM & CRISP-DM methodologies.
 
+<h3 align="center">Credentials:</h3>
 
-
+- [Coursera Python 3 Programming Specialization](./credentials/Coursera 6FETXJVPRGWS Python Programming.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
