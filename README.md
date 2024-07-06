@@ -17,9 +17,9 @@
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
 
-- 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data and AI.**
+- 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
-- 🤝 My favorite domain applications of AI are **STEM education and Healthcare.**
+- 🤝 My favorite domain applications of AI are **STEM Education and Healthcare.**
 
 - 👨‍💻 My portfolio website (please note it is a work in progress) is available at [https://cbohnert67.github.io](https://cbohnert67.github.io).
 
