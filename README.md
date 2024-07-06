@@ -16,17 +16,17 @@
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
 
-- 👯 I’m currently looking to collaborate on **upskilling with anyone who loves to learn about Data and AI.**
+- 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data and AI.**
 
 - 🤝 My favorite domain applications of AI are **STEM education and Healthcare.**
 
-- 👨‍💻 My portfolio website is available at [https://cbohnert67.github.io](https://cbohnert67.github.io) (Please note it is a work in progress).
+- 👨‍💻 My portfolio website (please note it is a work in progress) is available at [https://cbohnert67.github.io](https://cbohnert67.github.io).
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
 
 - 📫 How to reach me: **cbohnert.datascience@gmail.com**
 
-- ⚡ Fun fact: **When I'm not coding, I enjoy listening to music while walking in the city of Strasbourg.**
+- ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.**
 
 
 <h3 align="center">Skills:</h3>
