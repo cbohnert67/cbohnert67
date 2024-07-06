@@ -5,10 +5,11 @@
 
   Specifically, I am studying for 2024 in order to complete a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) with the online school STUDI. It is a french level 6 RNCP title of Software Developer. With this Bachelor, I will be equiped with 3 sets of skills: 1. conception and specification of the digital solution, 2. management, piloting and testing of the digital solution, and 3. python development of the digital solution. When completed, I will move toward Data Science and AI.
 
-- 🌱 I’m currently learning **the principles of good software construction aka. software engineering.**
+- 🌱 During the summer of 2024, I will be learning **the principles of good software construction aka. software engineering in order to master software development.**
 
-  I'm taking a break with Python to learn software development best practices (along with UML) using two great Java-based books and one awesome free online course from MIT Open Learning: <a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about" target="_blank">MIT 6.005.1x Software Construction in Java.</a>
+ I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and [www.educative.io](https://www.educative.io). More specifically, I am currently learning from the great 'Learn to Code: Become a Software Engineer' skill path from Educative. 
 
+My current readings are the following great books:
 
 <p align="center">
 <img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
