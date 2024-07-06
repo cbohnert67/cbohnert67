@@ -12,6 +12,7 @@
   My current readings are the following great books:
 
 <p align="center">
+<img src="./img/learn_more_python.png" alt="Learn More Python the Hard Way Shaw" height="290" width="200" />
 <img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
