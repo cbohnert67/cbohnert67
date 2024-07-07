@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
 <h2 align="center">An Aspiring Data & Machine Learning Scientist from France</h3>
 
+<h3 align="center">About Me:</h3>
+
 - 🔭 My main goal for 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and projects.**
 
   Specifically, I am studying for 2024 in order to complete a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) with the online school STUDI. It is a french level 6 RNCP title of Software Developer. With this Bachelor, I will be equiped with 3 sets of skills: 1. conception and specification of the digital solution, 2. management, piloting and testing of the digital solution, and 3. python development of the digital solution. When completed, I will move toward Data Science and AI.
@@ -9,7 +11,7 @@
 
   I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and [www.educative.io](https://www.educative.io). More specifically, I am currently learning from the great 'Learn to Code: Become a Software Engineer' skill path from Educative. 
 
-  My current readings are the following great books:
+<h3 align="center">My Current Readings:</h3>
 
 <p align="center">
 <img src="./img/learn_more_python.png" alt="Learn More Python the Hard Way Shaw" height="290" width="200" />
@@ -29,7 +31,7 @@
 
 - ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.**
 
-<h3 align="center">Skills:</h3>
+<h3 align="center">My Skills:</h3>
 
 - Programming with Python & R.
 - Data Management in Python with Numpy & Pandas.
@@ -40,7 +42,7 @@
 - Technical writing and documentation with Jupyter Notebook, Markdown & LaTex
 - Agile, SCRUM & CRISP-DM methodologies.
 
-<h3 align="center">Credentials:</h3>
+<h3 align="center">My Credentials:</h3>
 
 - [Coursera Python 3 Programming Specialization](./credentials/Coursera_6FETXJVPRGWS_Python3_Programming.pdf)
 - [Diplôme STUDI Développeur d'Application Python](./credentials/C%C3%A9dric_BOHNERT_DIPL%C3%94ME_STUDI_MARS_24_011_Dipl%C3%B4me_Studi_HETIC.pdf)
