@@ -11,14 +11,6 @@
 
   I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and [www.educative.io](https://www.educative.io). More specifically, I am currently learning from the great 'Learn to Code: Become a Software Engineer' skill path from Educative. 
 
-<h3 align="center">My Current Readings:</h3>
-
-<p align="center">
-<img src="./img/learn_more_python.png" alt="Learn More Python the Hard Way Shaw" height="290" width="200" />
-<img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
-<img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
-</p>
-
 - 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
 - 🤝 My favorite domain applications of AI are **STEM Education and Healthcare.**
@@ -30,6 +22,14 @@
 - 📫 How to reach me: **cbohnert.datascience@gmail.com**
 
 - ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.**
+
+<h3 align="center">My Current Readings:</h3>
+
+<p align="center">
+<img src="./img/learn_more_python.png" alt="Learn More Python the Hard Way Shaw" height="290" width="200" />
+<img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
+<img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
+</p>
 
 <h3 align="center">My Skills:</h3>
 
