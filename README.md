@@ -15,7 +15,7 @@
 
 - 🤝 My favorite domain applications of AI are **STEM Education, Research & Development and Healthcare.**
 
-  A current side project is the development of a small online Body Roundness Index Calculator dedicated to France population and medical practicioners. BRI is a new anthopometric measure assessing fat distribution to decipher the population-based characteristics and potential association with mortality risk. This a still a work in progress and you can use a first Minimum Viable Product at [www.calcule-ton-irc.fr](https://www.calcule-ton-irc.fr). It is yet a 100% Front End App written with the help of Bootstrap 5.
+  A current side project is the development of a small online Body Roundness Index Calculator dedicated to France population and medical practicioners. BRI is a new anthopometric measure assessing fat distribution to decipher the population-based characteristics and potential association with mortality risk. This is still a work in progress and you can use a first Minimum Viable Product at [www.calcule-ton-irc.fr](https://www.calcule-ton-irc.fr). It is yet a 100% Front End App written with the help of Bootstrap 5.
 
 - 👨‍💻 My main projects portfolio website (please note it is a work in progress) is available at [https://cbohnert67.github.io](https://cbohnert67.github.io).
 
