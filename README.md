@@ -35,7 +35,17 @@ Why Collaborate with Me?
 
 - 🤝 My favorite domain applications of AI are **STEM Education, Research & Development and Healthcare.**
 
-  A current side project is the development of a small online Body Roundness Index Calculator dedicated to France population and medical practicioners. BRI is a new anthopometric measure assessing fat distribution to decipher the population-based characteristics and potential association with mortality risk. This is still a work in progress and you can use a first Minimum Viable Product at [www.calcule-ton-irc.fr](https://www.calcule-ton-irc.fr). It is yet a 100% Front End App written with the help of Bootstrap 5.
+  I am deeply committed to exploring how AI can be harnessed to advance STEM Education, Research & Development, and Healthcare—areas where innovation can truly change lives.
+
+  In STEM Education, I’m interested in how AI can personalize learning experiences, making complex subjects more accessible and engaging for students of all levels. I believe that AI-driven tools can bridge educational gaps and foster a new generation of thinkers and problem solvers.
+
+  In Research & Development, my focus is on using AI to accelerate discovery and innovation. From automating data analysis to generating new insights, AI has the power to transform how we conduct research, leading to breakthroughs across various scientific fields.
+
+  In Healthcare, I’m passionate about applying AI to improve patient care, streamline medical processes, and develop predictive models that can foresee and mitigate health risks. I’m particularly interested in how AI can enhance diagnostic accuracy and optimize treatment plans, ultimately leading to better outcomes for patients.
+
+  These domains are where I see the most potential for AI to make a meaningful impact, and I’m dedicated to working on projects that align with these goals. I’m always open to collaboration and discussion on how we can push the boundaries of AI to create solutions that truly matter.
+
+  Let’s connect and work together to drive innovation in these critical fields!
 
 - 👨‍💻 My main projects portfolio website (please note it is a work in progress) is available at [https://cbohnert67.github.io](https://cbohnert67.github.io).
 
