@@ -28,7 +28,7 @@ Why Collaborate with Me?
 
     Hands-on Python Experience: I’m continuously improving my coding skills, particularly in Python, with a focus on AI-related projects.
     Data-Driven Approach: My projects emphasize data science techniques, from data cleaning to predictive modeling.
-    Growth Mindset: I’m committed to lifelong learning and am on the lookout for opportunities to grow, both through coursework and real-world experience.
+    Growth Mindset: I’m committed to lifelong learning and am on the lookout for opportunities to grow both through coursework and real-world experience.
 
   I’m in pursuit of a work-study (alternance) position to support my Master’s in AI Engineering from OpenClassrooms. This opportunity would not only help finance my education but also provide invaluable practical experience.
 
