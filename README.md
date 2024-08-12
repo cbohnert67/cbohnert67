@@ -3,11 +3,11 @@
 
 <h3 align="center">About Me:</h3>
 
-- 🔭 My main goal for 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and projects.**
+  🔭 My main goal for 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and projects.**
 
   Specifically, I am studying for 2024 in order to complete a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) with the help of the online school STUDI. It is a french level 6 RNCP title of Software Developer. With such a program, I will be well equiped with 3 sets of skills: conception and specification of the digital solution, management, piloting and testing of the digital solution, and python development for the digital solution. I will be able to design and specify a computing solution to a given problem, to guide the development through each validated phases with agility and to participate in the programming of the software with the versatile Python language. Due to such a quality and the merit of Python in the field, I will next move toward Data Science and AI after the Bachelor completed. That's why I am actively looking for a specific french law contractor who can participate in the finance of the AI Engineer career path from the online school Openclassrooms.
 
-- 🌱 During the summer of 2024, I will be actively learning **the principles of good software construction aka. software engineering in order to master software development.**
+   🌱 During the summer of 2024, I will be actively learning **the principles of good software construction aka. software engineering in order to master software development.**
 
   I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and the challenging [www.educative.io](https://www.educative.io) learning platform. I am currently enrolled in the great 'Learn to Code: Become a Software Engineer' skill path from Educative. Here is what the material I am focusing on during the summer:
 
@@ -18,7 +18,7 @@
     - Software Engineering Management and Quality with Agile SCRUM.
   
 
-- 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
+   👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
   I’m currently building my skills in Python programming and Data Science with the goal of becoming an AI Engineer. As I navigate this exciting path, I’m actively seeking collaborative projects on GitHub to sharpen my abilities and contribute to the community.
 
@@ -33,7 +33,7 @@ Why Collaborate with Me?
 
   Explore my GitHub profile and Portfolio, and feel free to reach out if you’re interested in working together or if you know of any opportunities that align with my journey. Together, we can create something impactful!
 
-- 🤝 My favorite domain applications of AI are **STEM Education, Research & Development and Healthcare.**
+ 🤝 My favorite domain applications of AI are **STEM Education, Research & Development and Healthcare.**
 
   I am deeply committed to exploring how AI can be harnessed to advance STEM Education, Research & Development, and Healthcare—areas where innovation can truly change lives.
 
