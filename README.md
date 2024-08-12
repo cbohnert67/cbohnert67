@@ -59,7 +59,7 @@ Why Collaborate with Me?
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
 
-<h3 align="center">My Skills:</h3>
+<h3 align="center">Me and My Skills in Pictures:</h3>
 
 - Programming with Python & R.
 - Data Management in Python with Numpy & Pandas.
