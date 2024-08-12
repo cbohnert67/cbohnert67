@@ -14,7 +14,7 @@
 
     - Object Oriented Programming with Python and Object Oriented Design with UML.
     - Algorithmic Problem Solving and The Craft of Efficient Programs with Data Structures
-    - Relational Databases Information Modeling and Implementation with SQL
+    - Relational Databases Information Modeling and Implementation with SQL and Python ORM.
     - Collaborating and Communicating with API and Libraries with Python.
     - Software Engineering Management and Quality with Agile SCRUM.
   
