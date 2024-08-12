@@ -62,14 +62,10 @@ Why Collaborate with Me?
 
 <h3 align="center">Me and My Skills in Pictures:</h3>
 
-- Programming with Python & R.
-- Data Management in Python with Numpy & Pandas.
-- Data Visualization with Matplotlib & Seaborn.
-- Exploratory Data Analysis & Statistical Modeling with Statsmodels.
-- Statistical Learning & Modeling with Scikit-learn.
-- Versioning with Git & Github.
-- Technical writing and documentation with Jupyter Notebook, Markdown & LaTex
-- Agile, SCRUM & CRISP-DM methodologies.
+<p align="center">
+<img src="./img/exploratory_data_analysis.jpg" alt="Exploratory Data Analysis with Python Programming" height="290" width="290" />
+<img src="./img/enseignement_formation_stem.jpg" alt="Pensée Informatique et Formation" height="290" width="290" />
+</p>
 
 <h3 align="center">My Credentials:</h3>
 
