@@ -45,15 +45,11 @@ Why Collaborate with Me?
 
   These domains are where I see the most potential for AI to make a meaningful impact, and I’m dedicated to working on projects that align with these goals. I’m always open to collaboration and discussion on how we can push the boundaries of AI to create solutions that truly matter.
 
-  Let’s connect and work together to drive innovation in these critical fields!
+  👨‍💻 Let’s connect and work together to drive innovation in these critical fields! 💬
 
-- 👨‍💻 My main projects portfolio website (please note it is a work in progress) is available at [https://cbohnert67.github.io](https://cbohnert67.github.io).
+  📫 How to reach me: **cbohnert.datascience@gmail.com**
 
-- 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
-
-- 📫 How to reach me: **cbohnert.datascience@gmail.com**
-
-- ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.**
+  ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.** So, be patient when I won't call back. 
 
 <h3 align="center">My Current Readings:</h3>
 
