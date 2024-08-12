@@ -11,11 +11,11 @@
 
   I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and the challenging [www.educative.io](https://www.educative.io) learning platform. I am currently enrolled in the great 'Learn to Code: Become a Software Engineer' skill path from Educative. Here is what the material I am focusing on during the summer:
 
-- Object Oriented Programming with Python and Object Oriented Design with UML.
-- Algorithmic Problem Solving and The Craf of Efficient Programs with Data Structures
-- Relational Databases Information Modeling and Implementation with SQL
-- Collaborating and Communicating with API and Libraries with Python.
-- Software Engineering Management and Quality with Agile SCRUM.
+    - Object Oriented Programming with Python and Object Oriented Design with UML.
+    - Algorithmic Problem Solving and The Craf of Efficient Programs with Data Structures
+    - Relational Databases Information Modeling and Implementation with SQL
+    - Collaborating and Communicating with API and Libraries with Python.
+    - Software Engineering Management and Quality with Agile SCRUM.
   
 
 - 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
