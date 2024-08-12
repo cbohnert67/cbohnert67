@@ -20,6 +20,23 @@
 
 - 👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
+I’m currently building my skills in Python programming and Data Science with the goal of becoming an AI Engineer. As I navigate this exciting path, I’m actively seeking collaborative projects on GitHub to sharpen my abilities and contribute to the community.
+
+If you're passionate about Machine Learning, Data Science, or AI and enjoy tackling challenging problems, let's connect! Whether it's an open-source project, a hackathon team, or just brainstorming ideas, I’m eager to collaborate and learn together.
+Why Collaborate with Me?
+
+    Hands-on Python Experience: I’m continuously improving my coding skills, particularly in Python, with a focus on AI-related projects.
+    Data-Driven Approach: My projects emphasize data science techniques, from data cleaning to predictive modeling.
+    Growth Mindset: I’m committed to lifelong learning and am on the lookout for opportunities to grow, both through coursework and real-world experience.
+
+My Current Goal:
+
+I’m in pursuit of a work-study (alternance) position to support my Master’s in AI Engineering from OpenClassrooms. This opportunity would not only help finance my education but also provide invaluable practical experience.
+
+Let's Collaborate!
+
+Explore my GitHub profile and Portfolio, and feel free to reach out if you’re interested in working together or if you know of any opportunities that align with my journey. Together, we can create something impactful!
+
 - 🤝 My favorite domain applications of AI are **STEM Education, Research & Development and Healthcare.**
 
   A current side project is the development of a small online Body Roundness Index Calculator dedicated to France population and medical practicioners. BRI is a new anthopometric measure assessing fat distribution to decipher the population-based characteristics and potential association with mortality risk. This is still a work in progress and you can use a first Minimum Viable Product at [www.calcule-ton-irc.fr](https://www.calcule-ton-irc.fr). It is yet a 100% Front End App written with the help of Bootstrap 5.
