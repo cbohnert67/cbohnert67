@@ -60,7 +60,7 @@ Why Collaborate with Me?
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
 
-<h3 align="center">Me and My Skills in Pictures:</h3>
+<h3 align="center">Me and My Skills in Pictures in Several AI Generated Illustrations</h3>
 
 <p align="center">
 <img src="./img/exploratory_data_analysis.jpeg" alt="Exploratory Data Analysis with Python Programming" height="400" width="400" />
