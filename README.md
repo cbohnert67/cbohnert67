@@ -65,9 +65,9 @@ Why Collaborate with Me?
 <h3 align="center">Me and My Skills in Pictures in Several AI Generated Illustrations</h3>
 
 <p align="center">
-<img src="./img/exploratory_data_analysis.jpeg" alt="Exploratory Data Analysis with Python Programming" height="400" width="400" />
-<img src="./img/pensee_informatique_apprentissage.jpeg" alt="Pensée Informatique et Apprentissage" height="400" width="400" />
-<img src="./img/agilite_communication_oop_design.jpeg" alt="Agilité Communication Design Thinking" height="400" width="400" />
+<img src="./img/exploratory_data_analysis.jpeg" alt="Exploratory Data Analysis with Python Programming" height="200" width="200" />
+<img src="./img/pensee_informatique_apprentissage.jpeg" alt="Pensée Informatique et Apprentissage" height="200" width="200" />
+<img src="./img/agilite_communication_oop_design.jpeg" alt="Agilité Communication Design Thinking" height="200" width="200" />
 </p>
 
 <h3 align="center">My Credentials:</h3>
