@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
 <h2 align="center">An Aspiring AI Engineer from France</h2>
-<h2 align="center">Actively Looking for A Work-Study (alternance) AI Tech Position</h2>
+<h2 align="center">⚠️ Actively Looking for A Work-Study (alternance) AI Tech Position starting in 2025 ⚠️</h2>
 
 <h3 align="center">About Me:</h3>
 
-  🔭 My main goal for 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and showcases.**
+  🔭 My main goal in 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and showcases.**
 
   Specifically, I am studying in 2024 for completing a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) program with the help of the online school STUDI. It is a french level 6 RNCP title of Software Developer. With such a program, I will be well equiped with 3 sets of skills: conception and specification of the digital solution, management, piloting and testing of the digital solution, and python development for the digital solution. I will be able to design and specify a computing solution to a given problem, to guide the development through each validated phases with agility and to participate in the programming of the software with the versatile Python language. Due to such a quality and the merit of Python in the field, I will next move toward Data Science and AI after the Bachelor completed. That's why I am actively looking for a specific french law contractor who can participate in the finance of the AI Engineer career path from the online school Openclassrooms.
 
