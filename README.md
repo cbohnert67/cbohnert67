@@ -24,7 +24,7 @@ That's why I am actively looking for a specific french law contractor company wh
   
   I am currently learning from the STUDI platform and the challenging [www.educative.io](https://www.educative.io) learning platform.
   
-  Here is what the material I am focusing on during the summer:
+  Here is what the material I am focusing on during the end of year:
 
     - Object Oriented Programming with Python and Object Oriented Design with UML.
     - Algorithmic Problem Solving and The Craft of Efficient Programs with Data Structures
