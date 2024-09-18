@@ -93,7 +93,8 @@ Why Collaborate with Me?
 
 - [Coursera Python 3 Programming Specialization](./credentials/Coursera_6FETXJVPRGWS_Python3_Programming.pdf)
 - [Diplôme STUDI Développeur d'Application Python](./credentials/C%C3%A9dric_BOHNERT_DIPL%C3%94ME_STUDI_MARS_24_011_Dipl%C3%B4me_Studi_HETIC.pdf)
-
+- [Educative Become a Datascientist](./credentials/O7rwGNT0N8N2JkKW5FAymoMrGrpMsB_data_scientist.pdf)
+- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/cedricbohnert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="To Cédric Bohnert LinkedIn" height="30" width="40" /></a>
