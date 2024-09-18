@@ -6,11 +6,25 @@
 
   🔭 My main goal in 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and showcases.**
 
-  Specifically, I am studying in 2024 for completing a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) program with the help of the online school STUDI. It is a french level 6 RNCP title of Software Developer. With such a program, I will be well equiped with 3 sets of skills: conception and specification of the digital solution, management, piloting and testing of the digital solution, and python development for the digital solution. I will be able to design and specify a computing solution to a given problem, to guide the development through each validated phases with agility and to participate in the programming of the software with the versatile Python language. Due to such a quality and the merit of Python in the field, I will next move toward Data Science and AI after the Bachelor completed. That's why I am actively looking for a specific french law contractor who can participate in the finance of the AI Engineer career path from the online school Openclassrooms.
+  Specifically, I am studying in 2024 for completing a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) program with the help of the online school STUDI. It is a french level 6 RNCP title of Software Developer. With such a program, I will be well equiped with 3 sets of skills:
 
-   🌱 During the summer of 2024, I will be actively learning **the principles of good software construction aka. software engineering in order to master software development.**
+- Conception and specification of the digital solution,
+- Management, piloting and testing of the digital solution,
+- Python development for the digital solution.
 
-  I am using several good resources in order to complete that phase of upskilling. I am currently learning from the STUDI platform and the challenging [www.educative.io](https://www.educative.io) learning platform. I am currently enrolled in the great 'Learn to Code: Become a Software Engineer' skill path from Educative. Here is what the material I am focusing on during the summer:
+I will be therefore able to design and specify a computing solution to a given problem, to guide the development through each validated phases with agility and to participate in the programming of the software with the versatile Python language. 
+
+Due to such a versatility and the merit of Python in the field, I will next move toward Data Science and AI, domain that I am passionate about.
+
+That's why I am actively looking for a specific french law contractor company who can participate in the finance of the AI Engineer career path from the online school Openclassrooms, starting in the beginning of 2025.
+
+   🌱 During the end of 2024, I will be actively learning **the principles of good software construction aka. software engineering in order to master software development.**
+
+  I am using several good resources in order to complete such a phase of upskilling. 
+  
+  I am currently learning from the STUDI platform and the challenging [www.educative.io](https://www.educative.io) learning platform.
+  
+  Here is what the material I am focusing on during the summer:
 
     - Object Oriented Programming with Python and Object Oriented Design with UML.
     - Algorithmic Problem Solving and The Craft of Efficient Programs with Data Structures
@@ -19,11 +33,14 @@
     - Software Engineering Management and Quality with Agile SCRUM.
   
 
-   👯 I’m currently open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
+   👯 I’m open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
-  I’m currently building my skills in Python programming and Data Science with the goal of becoming an AI Engineer. As I navigate this exciting path, I’m actively seeking collaborative projects on GitHub to sharpen my abilities and contribute to the community.
+  I’m building my skills in Python programming and Data Science with the goal of becoming an AI Engineer. As I navigate this exciting journey, I’m seeking collaborative projects on GitHub to sharpen my abilities and contribute to the community.
 
-  If you're passionate about Machine Learning, Data Science, or AI and enjoy tackling challenging problems, let's connect! Whether it's an open-source project, a hackathon team, or just brainstorming ideas, I’m eager to collaborate and learn together.
+  If you're passionate about Machine Learning, Data Science, or AI and enjoy tackling challenging problems, let's connect! 
+  
+  Whether it's an open-source project, a hackathon team, or just brainstorming ideas, I’m eager to collaborate and learn together.
+  
 Why Collaborate with Me?
 
   Hands-on Python Experience: I’m continuously improving my coding skills, particularly in Python, with a focus on AI-related projects.
@@ -32,17 +49,19 @@ Why Collaborate with Me?
   
   Growth Mindset: I’m committed to lifelong learning and am on the lookout for opportunities to grow both through coursework and real-world experience.
 
-  I’m in pursuit of a work-study (alternance) position to support my Master’s in AI Engineering from OpenClassrooms. This opportunity would not only help finance my education but also provide invaluable practical experience.
+  I’m in pursuit of a work-study (alternance) position to support a Master’s program in AI Engineering with OpenClassrooms. This opportunity would not only help finance my education but also provide invaluable practical experience.
 
-  Explore my GitHub profile and Portfolio, and feel free to reach out if you’re interested in working together or if you know of any opportunities that align with my journey. Together, we can create something impactful!
+  Explore my GitHub profile and Portfolio, and feel free to reach me out if you’re interested in working together or if you know of any opportunities that align with my journey. 
+  
+  Together, we can create something impactful!
 
- 🤝 My favorite domain applications of AI are **STEM Education, Research & Development and Healthcare.**
+ 🤝 My favorite domain applications of AI are **STEM Education, Scientific Research & Development and Healthcare.**
 
-  I am deeply committed to exploring how AI can be harnessed to advance STEM Education, Research & Development, and Healthcare—areas where innovation can truly change lives.
+  I am deeply committed to exploring how AI can be harnessed to advance STEM Education, Scientific Research & Development, and Healthcare—areas where innovation can truly change lives.
 
   In STEM Education, I’m interested in how AI can personalize learning experiences, making complex subjects more accessible and engaging for students of all levels. I believe that AI-driven tools can bridge educational gaps and foster a new generation of thinkers and problem solvers.
 
-  In Research & Development, my focus is on using AI to accelerate discovery and innovation. From automating data analysis to generating new insights, AI has the power to transform how we conduct research, leading to breakthroughs across various scientific fields.
+  In Scientific Research & Development, my focus is on using AI to accelerate discovery and innovation. From automating data analysis to generating new insights, AI has the power to transform how we conduct research, leading to breakthroughs across various scientific fields.
 
   In Healthcare, I’m passionate about applying AI to improve patient care, streamline medical processes, and develop predictive models that can foresee and mitigate health risks. I’m particularly interested in how AI can enhance diagnostic accuracy and optimize treatment plans, ultimately leading to better outcomes for patients.
 
