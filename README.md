@@ -20,15 +20,15 @@
     
    🌱 My new 2025 Learning Objectives: Mastering Data Science & AI
     
-    - **Data Analysis & Visualization:** Master Pandas, NumPy, Matplotlib, and Seaborn for insightful data exploration.
-    - **Machine Learning:** Develop and evaluate models using scikit-learn; implement algorithms like regression and clustering.
-    - **Deep Learning:** Gain expertise in TensorFlow and PyTorch; build neural networks for NLP and computer vision.
-    - **Big Data Technologies:** Learn Hadoop and Apache Spark to handle and process large-scale datasets.
-    - **Mathematics & Statistics:** Strengthen foundations in linear algebra, calculus, probability, and statistical modeling.
-    - **Software Engineering for AI:** Enhance Python programming skills; deploy models with Docker and Kubernetes.
-    - **Advanced AI Topics:** Explore Natural Language Processing, Computer Vision, and Reinforcement Learning.
-    - **Projects & Collaboration:** Contribute to open-source projects and build a comprehensive data science portfolio.
-    - **Certifications & Continuous Learning:** Achieve certifications in Data Science and AI; stay updated with the latest industry trends.
+  - **Data Analysis & Visualization:** Master Pandas, NumPy, Matplotlib, and Seaborn for insightful data exploration.
+  - **Machine Learning:** Develop and evaluate models using scikit-learn; implement algorithms like regression and clustering.
+  - **Deep Learning:** Gain expertise in TensorFlow and PyTorch; build neural networks for NLP and computer vision.
+  - **Big Data Technologies:** Learn Hadoop and Apache Spark to handle and process large-scale datasets.
+  - **Mathematics & Statistics:** Strengthen foundations in linear algebra, calculus, probability, and statistical modeling.
+  - **Software Engineering for AI:** Enhance Python programming skills; deploy models with Docker and Kubernetes.
+  - **Advanced AI Topics:** Explore Natural Language Processing, Computer Vision, and Reinforcement Learning.
+  - **Projects & Collaboration:** Contribute to open-source projects and build a comprehensive data science portfolio.
+  - **Certifications & Continuous Learning:** Achieve certifications in Data Science and AI; stay updated with the latest industry trends.
 
    👯 I’m open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
