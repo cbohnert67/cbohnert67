@@ -1,37 +1,34 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
 <h2 align="center">An Aspiring AI Engineer from France</h2>
-<h2 align="center">⚠️ Actively Looking for A Work-Study (alternance) AI Tech Position starting in 2025 ⚠️</h2>
+<h2 align="center">⚠️ Actively Looking for A Work-Study (alternance) AI Engineer Position starting in 2025 ⚠️</h2>
 
 <h3 align="center">About Me:</h3>
 
-  🔭 My main goal in 2024 is to work towards **leveling up my software development skills and building up my GitHub profile with notes and showcases.**
+  🔭 My main goal in 2025 is to work towards **leveling up my Data Science and AI skills and building up my GitHub profile with notes and showcases.**
 
-  Specifically, I am studying in 2024 for completing a [Bachelor Développeur d'Application Python](https://www.studi.com/fr/formation/developpement/bachelor-developpeur-dapplication-python) program with the help of the online school STUDI. It is a french level 6 RNCP title of Software Developer. With such a program, I will be well equiped with 3 sets of skills:
-
-- Conception and specification of the digital solution,
-- Management, piloting and testing of the digital solution,
-- Python development for the digital solution.
-
-I will be therefore able to design and specify a computing solution to a given problem, to guide the development through each validated phases with agility and to participate in the programming of the software with the versatile Python language. 
-
-Due to such a versatility and the merit of Python in the field, I will next move toward Data Science and AI, domain that I am passionate about.
-
-That's why I am actively looking for a specific french law contractor company who can participate in the finance of the AI Engineer career path from the online school Openclassrooms, starting in the beginning of 2025.
-
-   🌱 During the end of 2024, I will be actively learning **the principles of good software construction aka. software engineering in order to master software development.**
-
-  I am using several good resources in order to complete such a phase of upskilling. 
+  In 2024, I have been actively focused on mastering the principles of software engineering to build a strong foundation in software development. During the latter part of the year, I have concentrated on upskilling with the help of excellent resources, including the STUDI platform and the highly challenging [www.educative.io](https://www.educative.io) learning platform.
   
-  I am currently learning from the STUDI platform and the challenging [www.educative.io](https://www.educative.io) learning platform.
+  Here are the key areas I’ve been focusing on:  
   
-  Here is what the material I am focusing on during the end of year:
-
-    - Object Oriented Programming with Python and Object Oriented Design with UML.
-    - Algorithmic Problem Solving and The Craft of Efficient Programs with Data Structures
-    - Relational Databases Information Modeling and Implementation with SQL and Python ORM.
-    - Collaborating and Communicating with API and Libraries with Python.
-    - Software Engineering Management and Quality with Agile SCRUM.
+  - **Object-Oriented Programming with Python** and **Object-Oriented Design with UML.**  
+  - **Algorithmic Problem Solving** and crafting efficient programs using **Data Structures.**  
+  - **Relational Database Modeling and Implementation** with **SQL** and **Python ORM.**  
+  - **Collaborating and Communicating with APIs and Libraries** using Python.  
+  - **Software Engineering Management and Quality** practices with **Agile SCRUM.**
   
+  These efforts have equipped me with a robust skill set for designing, developing, and managing software systems. I am now fully prepared to transition into learning Data Science and AI Engineering. My foundation in software development principles, problem-solving, and data modeling provides an excellent basis for exploring advanced techniques in machine learning, artificial intelligence, and data-driven decision-making.
+    
+   🌱 My new 2025 Learning Objectives: Mastering Data Science & AI
+    
+    - **Data Analysis & Visualization:** Master Pandas, NumPy, Matplotlib, and Seaborn for insightful data exploration.
+    - **Machine Learning:** Develop and evaluate models using scikit-learn; implement algorithms like regression and clustering.
+    - **Deep Learning:** Gain expertise in TensorFlow and PyTorch; build neural networks for NLP and computer vision.
+    - **Big Data Technologies:** Learn Hadoop and Apache Spark to handle and process large-scale datasets.
+    - **Mathematics & Statistics:** Strengthen foundations in linear algebra, calculus, probability, and statistical modeling.
+    - **Software Engineering for AI:** Enhance Python programming skills; deploy models with Docker and Kubernetes.
+    - **Advanced AI Topics:** Explore Natural Language Processing, Computer Vision, and Reinforcement Learning.
+    - **Projects & Collaboration:** Contribute to open-source projects and build a comprehensive data science portfolio.
+    - **Certifications & Continuous Learning:** Achieve certifications in Data Science and AI; stay updated with the latest industry trends.
 
    👯 I’m open to collaborate on **upskilling with anyone who loves to learn about Python Programming, Data Science and AI.**
 
