@@ -53,7 +53,7 @@
   
   I’m pursuing a **work-study (alternance)** position to support my Master’s in AI Engineering with OpenClassrooms. This opportunity would enable me to gain hands-on experience while advancing my education, building a bridge between theory and practice.
   
-  Explore my [GitHub Profile](#) and [Portfolio](#). If you know of opportunities aligning with my skills and goals, let’s talk!
+  Feel free to explore my project. If you know of opportunities aligning with my skills and goals, let’s talk!
   
   ---
   
