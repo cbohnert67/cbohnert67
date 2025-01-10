@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
 <h2 align="center">An Aspiring AI Engineer from France</h2>
-<h2 align="center">⚠️ Actively Looking for A Work-Study (alternance) AI Engineer Position starting in 2025 ⚠️</h2>
+<h2 align="center">⚠️ Actively Looking for A Work-Study AI Engineer Position starting in 2025 ⚠️</h2>
 
 <h3 align="center">About Me:</h3>
 
