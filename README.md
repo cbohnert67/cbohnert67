@@ -2,7 +2,7 @@
 <h2 align="center">An Aspiring AI Engineer from France</h2>
 <h2 align="center">⚠️ Actively Looking for A Work-Study AI Engineer Position starting in 2025 ⚠️</h2>
 
-<h3 align="center">About Me:</h3>
+## About Me
 
   ### 🔭 My Mission for 2025: Advancing in Data Science and AI
   
@@ -72,7 +72,9 @@
 
   ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.** So, be patient when I won't call back. 
 
-<h3 align="center">My Current Readings:</h3>
+---
+
+## My Current Readings:
 
 <p align="center">
 <img src="./img/learn_more_python.png" alt="Learn More Python the Hard Way Shaw" height="290" width="200" />
@@ -80,7 +82,7 @@
 <img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
 </p>
 
-<h3 align="center">Me and My Skills in Pictures in Several AI Generated Illustrations</h3>
+## Me and My Skills in GenAI Illustrations:
 
 <p align="center">
 <img src="./img/exploratory_data_analysis.jpeg" alt="Exploratory Data Analysis with Python Programming" height="200" width="200" />
@@ -88,14 +90,14 @@
 <img src="./img/agilite_communication_oop_design.jpeg" alt="Agilité Communication Design Thinking" height="200" width="200" />
 </p>
 
-<h3 align="center">My Credentials:</h3>
+## My Credentials:
 
 - [Coursera Python 3 Programming Specialization](./credentials/Coursera_6FETXJVPRGWS_Python3_Programming.pdf)
 - [Diplôme STUDI Développeur d'Application Python](./credentials/C%C3%A9dric_BOHNERT_DIPL%C3%94ME_STUDI_MARS_24_011_Dipl%C3%B4me_Studi_HETIC.pdf)
 - [Educative Become a Data Scientist](./credentials/O7rwGNT0N8N2JkKW5FAymoMrGrpMsB_data_scientist.pdf)
 - [Educative Become a Django Developer](./credentials/985KjktrMGW4LYN18t0mW4DOrOxDIN-1_Django_Developer.pdf)
   
-<h3 align="center">Connect with me:</h3>
+## Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/cedricbohnert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="To Cédric Bohnert LinkedIn" height="30" width="40" /></a>
 </p>
