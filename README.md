@@ -1,107 +1,44 @@
-<h1 align="center">Hi 👋, I'm Cédric Bohnert !</h1>
-<h2 align="center">An Aspiring AI Engineer from France</h2>
-<h2 align="center">⚠️ Actively Looking for A Work-Study AI Engineer Position starting in 2025 ⚠️</h2>
+# Salut, moi c'est Cédric ! 👋 (@cbohnert67)
 
-## About Me
+Je suis un développeur, créateur de contenu numérique et étudiant passionné. Actuellement en deuxième année de Licence de Mathématiques, j'aime explorer l'intersection de la rigueur mathématique, de l'intelligence artificielle et du développement logiciel.
 
-  ### 🔭 My Mission for 2025: Advancing in Data Science and AI
-  
-  In 2025, I am fully committed to enhancing my skills in Data Science and AI while expanding my GitHub portfolio with insightful notes and project showcases. 
-  
-  In 2024, I built a strong foundation in software engineering, leveraging exceptional learning resources like the **STUDI platform** and the **www.educative.io** platform. My focus has been on mastering core software development principles and hands-on practices.
-  
-  #### Key Competencies Developed in 2024:
-  
-  - **Object-Oriented Programming (OOP)**: Proficient in Python and UML-based Object-Oriented Design.
-  - **Algorithmic Problem Solving**: Expertise in designing efficient programs using advanced Data Structures.
-  - **Database Systems**: Skilled in relational database modeling and implementation with SQL and Python ORM.
-  - **API Collaboration**: Adept at integrating and communicating with APIs and libraries using Python.
-  - **Software Management & Quality**: Knowledge of Agile SCRUM practices and software engineering principles.
-  
-  These achievements have prepared me for the next step: diving deeper into Data Science and AI Engineering. My strong foundation in problem-solving, software design, and data modeling ensures I’m ready to tackle advanced machine learning and artificial intelligence concepts.
-  
-  ---
-  
-  ### 🌱 My 2025 Learning Objectives:
-  
-  #### Data Science & AI Specialization:
-  - **Data Analysis & Visualization**: Master tools like Pandas, NumPy, Matplotlib, and Seaborn for in-depth data exploration.  
-  - **Machine Learning**: Build and evaluate models using scikit-learn; implement algorithms like regression, classification, and clustering.  
-  - **Deep Learning**: Develop expertise in TensorFlow and PyTorch for NLP and computer vision tasks.  
-  - **Big Data Technologies**: Learn to handle large-scale datasets using Hadoop and Apache Spark.  
-  - **Mathematics & Statistics**: Strengthen foundations in linear algebra, calculus, probability, and statistical modeling.  
-  - **Software Engineering for AI**: Improve Python programming for AI applications; deploy models with Docker and Kubernetes.  
-  - **Advanced AI Topics**: Explore Natural Language Processing (NLP), Computer Vision, and Reinforcement Learning.  
-  - **Projects & Collaboration**: Contribute to open-source projects and build a comprehensive Data Science portfolio.  
-  - **Certifications**: Achieve industry-recognized certifications and stay updated on the latest trends in AI.
-  
-  ---
-  
-  ### 👯 Collaboration & Networking
-  
-  I’m actively seeking collaborative opportunities in Python programming, Data Science, and AI. If you're enthusiastic about tackling challenging problems or building innovative projects, let’s connect!
-  
-  #### Why Collaborate with Me?
-  
-  - **Hands-On Python Expertise**: I continuously refine my Python skills, focusing on AI-driven projects.  
-  - **Data-Driven Mindset**: My approach emphasizes end-to-end workflows, from data cleaning to predictive modeling.  
-  - **Growth-Oriented**: I embrace lifelong learning through coursework, projects, and collaborations.
-  
-  ---
-  
-  ### 💼 Career Aspiration: AI Engineer via Work-Study (Alternance)
-  
-  I’m pursuing a **work-study (alternance)** position to support my Master’s in AI Engineering with OpenClassrooms. This opportunity would enable me to gain hands-on experience while advancing my education, building a bridge between theory and practice.
-  
-  Feel free to explore my project. If you know of opportunities aligning with my skills and goals, let’s talk!
-  
-  ---
-  
-  ### 🤝 Areas of Passion: STEM Education, Research, and Healthcare  
-  
-  I am deeply committed to leveraging AI for transformative applications in:
-  - **STEM Education**: Creating AI tools that personalize learning, making complex subjects accessible and engaging for learners.  
-  - **Scientific Research**: Accelerating discoveries through AI-driven insights and automated data analysis.  
-  - **Healthcare**: Enhancing diagnostics, streamlining processes, and developing predictive models for improved patient care.
-  
-  Let’s work together to innovate in these critical fields and create meaningful impact!
-  
-  👨‍💻 **Let’s connect and collaborate to drive AI innovation!**
-
-  📫 How to reach me: **cbohnert.datascience@gmail.com**
-
-  ⚡ Fun fact: **When I'm not coding, I enjoy listening to electro music while walking in the city of Strasbourg, France.** So, be patient when I won't call back. 
+À travers mes projets, j'applique des concepts théoriques abstraits (algèbre linéaire, topologie, géométrie de l'information) à des solutions concrètes, du jeu vidéo à l'analyse de données. Je suis également le fondateur de **Liouaï Digital Publishing**, une initiative visant à promouvoir la philosophie "Learn It Yourself" à travers des livrets éducatifs STEM et des applications web.
 
 ---
 
-## My Current Readings:
+## 🚀 Mes Projets Phares
 
-<p align="center">
-<img src="./img/learn_more_python.png" alt="Learn More Python the Hard Way Shaw" height="290" width="200" />
-<img src="./img/software_design_hue.png" alt="Software Design Hue" height="290" width="200" />
-<img src="./img/uml2_pratique_roques.png" alt="UML 2 par la pratique Roques" height="290" width="200" />
-</p>
+### 🧠 Sciences & IA
+*   **Project Synphysis** : Un cadre de recherche personnel visant à explorer l'unification mathématique de l'information et de la physique, en s'appuyant notamment sur la géométrie de l'information et les métriques de Fisher.
+*   **La Méthode Liouaï** : Développement d'une approche d'apprentissage utilisant les LLM comme des partenaires socratiques pour approfondir la compréhension des matières académiques complexes par la reconstruction active de preuves.
 
-## Me and My Skills in GenAI Illustrations:
+### 🕹️ Développement de Jeux & Outils TTRPG
+*   **Neon Showdown: Cyber Tournament** : Un jeu de combat en 2D dynamique développé en JavaScript avec le framework **Phaser.js**, intégrant des moteurs de collision personnalisés et des combattants gérés par IA.
+*   **Ars Magica Terminus & Le Protocole Flageolet** : Conception et développement de systèmes et d'outils pour les jeux de rôle sur table (TTRPG), avec une spécialisation dans le jeu en solo, les mécaniques de bac à sable (hex-crawl) et le journaling.
 
-<p align="center">
-<img src="./img/exploratory_data_analysis.jpeg" alt="Exploratory Data Analysis with Python Programming" height="200" width="200" />
-<img src="./img/pensee_informatique_apprentissage.jpeg" alt="Pensée Informatique et Apprentissage" height="200" width="200" />
-<img src="./img/agilite_communication_oop_design.jpeg" alt="Agilité Communication Design Thinking" height="200" width="200" />
-</p>
+### 📱 Applications & Projets Web
+*   **CompareGamer** : Une application axée sur l'économie du jeu vidéo, permettant de comparer l'achat, la location et le cloud gaming, pensée pour les configurations matérielles de prochaine génération.
+*   **MiaouPédia** : Une encyclopédie connectée dédiée au bien-être félin et à la "Pet Economy" (fortement inspirée par ma fidèle compagne Aïka 🐾).
 
-## My Credentials:
+---
 
-- [Coursera Python 3 Programming Specialization](./credentials/Coursera_6FETXJVPRGWS_Python3_Programming.pdf)
-- [Diplôme STUDI Développeur d'Application Python](./credentials/C%C3%A9dric_BOHNERT_DIPL%C3%94ME_STUDI_MARS_24_011_Dipl%C3%B4me_Studi_HETIC.pdf)
-- [Educative Become a Data Scientist](./credentials/O7rwGNT0N8N2JkKW5FAymoMrGrpMsB_data_scientist.pdf)
-- [Educative Become a Django Developer](./credentials/985KjktrMGW4LYN18t0mW4DOrOxDIN-1_Django_Developer.pdf)
-  
-## Connect with me:
-<p align="center">
-<a href="https://linkedin.com/in/cedricbohnert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="To Cédric Bohnert LinkedIn" height="30" width="40" /></a>
-</p>
+## 🛠️ Compétences & Technologies
 
+*   **Langages :** Python, JavaScript (ES6+), HTML5 / CSS3.
+*   **Frameworks & Outils :** Phaser.js, Git / GitHub, Intégration d'API d'IA générative.
+*   **Domaines d'expertise :** Mathématiques fondamentales (Algèbre linéaire, Topologie), Géométrie de l'information, Prompt Engineering / Socratic AI tutoring, Game Design.
 
+---
 
+## 📝 Mes Publications
 
+Je partage régulièrement mes réflexions sur l'impact de l'IA, les transitions de paradigmes scientifiques (inspirées de Thomas Kuhn) et l'éducation STEM. Retrouvez-moi sur mes réseaux pour suivre ma série de publications et échanger sur ces sujets !
+
+---
+
+## 📬 Me contacter
+
+*   **GitHub :** [cbohnert67](https://github.com/cbohnert67)
+*   **LinkedIn :** [Cédric Bohnert](https://www.linkedin.com/in/cedricbohnert/)
+
+*« La meilleure façon de comprendre un système complexe est de le reconstruire soi-même. »*
