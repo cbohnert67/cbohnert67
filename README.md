@@ -1,6 +1,6 @@
 # Salut, moi c'est Cédric ! 👋 (@cbohnert67)
 
-Je suis un développeur, créateur de contenu numérique et autodidacte passionné. J'aime explorer l'intersection de la rigueur mathématique, de l'intelligence artificielle et du développement logiciel.
+Je suis un développeur, créateur de contenu digital et autodidacte passionné. J'aime explorer l'intersection de la rigueur mathématique, de l'intelligence artificielle et du développement logiciel.
 
 À travers mes projets, j'applique des concepts théoriques abstraits (algèbre linéaire, topologie, géométrie de l'information) à des solutions concrètes, du jeu vidéo à l'analyse de données. Je suis également le créateur de la **Méthode Liouaï**, une initiative visant à promouvoir la philosophie "Learn It Yourself" et l'apprentissage socratique des mathématiques avec de l'IA.
 
