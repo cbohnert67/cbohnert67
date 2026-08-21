@@ -18,10 +18,10 @@
 | Domaine | Technologies & Outils |
 | :--- | :--- |
 | **IA & LLMs** | Google Gemini API, Google AI Studio, Vertex AI, Prompt Engineering, Function Calling / Tools, RAG |
-| **Langages** | Python, TypeScript, JavaScript (ES6+), Julia, HTML5, CSS3 |
-| **Frontend & UI** | React, Next.js, Vue.js, Tailwind CSS |
-| **Data & Modélisation** | NumPy, SciPy, PyTorch, Matplotlib, Pandas |
-| **DevOps & Environnement** | Git, GitHub Actions, Node.js, Vite, Google Apps Script |
+| **Langages** | Python, TypeScript, JavaScript (ES6+), Julia, R, HTML5, CSS3 |
+| **Frontend & UI** | Vanilla JS, React, Tailwind CSS |
+| **Data & Modélisation** | NumPy, SciPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, Pandas |
+| **DevOps & Environnement** | Git, GitHub Actions, Antigravity, Antigravity IDE |
 
 ---
 
