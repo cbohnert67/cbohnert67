@@ -33,24 +33,33 @@
 
 ---
 
-### 📜 Certifications & Spécialisations (Coursera)
+### 📜 Spécialisations & Certifications (Coursera)
 
-[![Coursera](https://img.shields.io/badge/Coursera-Learner_Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user-profile-link)
+[![Coursera](https://img.shields.io/badge/Coursera-Learner_Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org)
 
 #### 🤖 Intelligence Artificielle & Google AI
-- ![Google](https://img.shields.io/badge/Google-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white) **Google AI** — *Google*  
+- ![Google](https://img.shields.io/badge/Google-AI_Professional_Certificate-4285F4?style=flat-square&logo=google&logoColor=white) **Google AI Professional Certificate** — *Google* `Août 2026`  
   🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/9YFTWFHI869H)
 
-- ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_for_Everyone-FF6F00?style=flat-square) **Generative AI with Large Language Models** — *DeepLearning.AI*  
-  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+#### 📐 Mathématiques Appliquées & Modélisation
+- ![Imperial College](https://img.shields.io/badge/Imperial_College_London-Mathematics_for_ML-002147?style=flat-square) **Mathematics for Machine Learning Specialization** — *Imperial College London* `Sept. 2025`  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/1610QCSKMEDZ)
 
-#### 📊 Data Science & Machine Learning
-- ![IBM](https://img.shields.io/badge/IBM-Data_Science_Specialization-1261FE?style=flat-square&logo=ibm&logoColor=white) **IBM Data Science Professional Certificate** — *IBM*  
-  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+- ![Johns Hopkins](https://img.shields.io/badge/Johns_Hopkins-Integral_Calculus-002D72?style=flat-square) **Integral Calculus through Data and Modeling Specialization** — *Johns Hopkins University* `Sept. 2025`  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/AAU3PERNV6XS)
 
-- ![Stanford](https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat-square) **Machine Learning Specialization** — *Stanford Online & DeepLearning.AI*  
-  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+- ![Johns Hopkins](https://img.shields.io/badge/Johns_Hopkins-Differential_Calculus-002D72?style=flat-square) **Differential Calculus through Data and Modeling Specialization** — *Johns Hopkins University* `Avril 2025`  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/7JFXXS0NZKYM)
 
+- ![CU Boulder](https://img.shields.io/badge/CU_Boulder-Essential_Math_for_Data_Science-CFB87C?style=flat-square&logoColor=black) **Expressway to Data Science: Essential Math Specialization** — *University of Colorado Boulder* `Nov. 2023`  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/MBEWSA8BGJAH)
+
+#### 🐍 Développement & Ingénierie Python
+- ![ASU](https://img.shields.io/badge/Arizona_State-Python_Specialization-8C1D40?style=flat-square) **Python: A Guided Journey from Introduction to Application Specialization** — *Arizona State University* `Août 2025`  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/82TNMGS3LMBQ)
+
+- ![Univ of Michigan](https://img.shields.io/badge/Univ_of_Michigan-Python_3_Programming-00274C?style=flat-square) **Python 3 Programming Specialization** — *University of Michigan* `Nov. 2023`  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/6FETXJVPRGWS)
 ---
 
 ## 📬 Me contacter
