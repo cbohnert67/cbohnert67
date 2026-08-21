@@ -38,8 +38,8 @@
 [![Coursera](https://img.shields.io/badge/Coursera-Learner_Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user-profile-link)
 
 #### 🤖 Intelligence Artificielle & Google AI
-- ![Google](https://img.shields.io/badge/Google-Google_AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white) **Google AI Essentials** — *Google*  
-  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+- ![Google](https://img.shields.io/badge/Google-Google_AI-4285F4?style=flat-square&logo=google&logoColor=white) **Google AI** — *Google*  
+  🔗 [Voir le certificat](https://www.coursera.org/account/accomplishments/specialization/9YFTWFHI869H)
 
 - ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_for_Everyone-FF6F00?style=flat-square) **Generative AI with Large Language Models** — *DeepLearning.AI*  
   🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
