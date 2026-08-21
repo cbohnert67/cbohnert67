@@ -33,14 +33,23 @@
 
 ---
 
-### 📜 Certifications & Formations Continues (Coursera)
+### 📜 Certifications & Spécialisations (Coursera)
 
-> *Section dédiée à l'affichage de mes certifications principales et spécialisations en cours.*
+[![Coursera](https://img.shields.io/badge/Coursera-Learner_Profile-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user-profile-link)
 
-- 🎓 **[Titre de la Certification 1]** – *Émetteur / Institution* (Année)
-- 🎓 **[Titre de la Certification 2]** – *Émetteur / Institution* (Année)
-- 🎓 **[Titre de la Certification 3]** – *Émetteur / Institution* (Année)
-- 🎓 **[Titre de la Certification 4]** – *Émetteur / Institution* (Année)
+#### 🤖 Intelligence Artificielle & Google AI
+- ![Google](https://img.shields.io/badge/Google-Google_AI_Essentials-4285F4?style=flat-square&logo=google&logoColor=white) **Google AI Essentials** — *Google*  
+  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+
+- ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Generative_AI_for_Everyone-FF6F00?style=flat-square) **Generative AI with Large Language Models** — *DeepLearning.AI*  
+  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+
+#### 📊 Data Science & Machine Learning
+- ![IBM](https://img.shields.io/badge/IBM-Data_Science_Specialization-1261FE?style=flat-square&logo=ibm&logoColor=white) **IBM Data Science Professional Certificate** — *IBM*  
+  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
+
+- ![Stanford](https://img.shields.io/badge/Stanford-Machine_Learning_Specialization-8C1515?style=flat-square) **Machine Learning Specialization** — *Stanford Online & DeepLearning.AI*  
+  🔗 [Voir le certificat](https://coursera.org/verify/TON_ID)
 
 ---
 
